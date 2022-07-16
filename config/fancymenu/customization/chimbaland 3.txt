@@ -317,7 +317,7 @@ customization {
   y = 237
   delayappearance = true
   backgroundnormal = resources\empty.png
-  value = 26.14.189.188
+  value = 5.161.46.32:25585
   delayappearanceeverytime = false
   height = 29
 }
@@ -357,7 +357,7 @@ customization {
   y = 83
   delayappearance = true
   alignment = left
-  value = %servermotd_line2:26.14.189.188%
+  value = %servermotd_line2:5.161.46.32:25585%
   delayappearanceeverytime = false
 }
 
@@ -375,7 +375,7 @@ customization {
   y = -245
   delayappearance = true
   alignment = left
-  value = * CHIMBALAND %serverstatus:26.14.189.188%
+  value = * CHIMBALAND %serverstatus:5.161.46.32:25585%
   delayappearanceeverytime = false
 }
 
